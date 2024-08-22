@@ -1,0 +1,25 @@
+.demo-editor {
+    background-color: #16213e; /* Editor background color */
+    color: white; /* Editor text color */
+    padding: 10px;
+    border-radius: 5px;
+    overflow: auto;
+  }
+  
+  .demo-editor .public-DraftEditorPlaceholder-root,
+  .demo-editor .public-DraftEditorPlaceholder-inner,
+  .demo-editor .public-DraftEditorContent {
+    color: white; /* Placeholder and content text color */
+  }
+  
+  .demo-wrapper {
+    background-color: #1a1a2e; /* Wrapper background color */
+  }
+  
+  .demo-toolbar {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #333; 
+    color: white; /* Toolbar text color */
+  }
+  
